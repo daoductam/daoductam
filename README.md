@@ -129,7 +129,7 @@ Java Backend Developer • Spring Boot • Problem Solver
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Vibfm91sXV?theme=dark&font=Baloo&ext=heatmap"/>
 
 </p>
 
@@ -139,7 +139,7 @@ Java Backend Developer • Spring Boot • Problem Solver
 
 <p align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+<img src="https://raw.githubusercontent.com/daoductam/daoductam/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
