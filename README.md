@@ -24,6 +24,8 @@ Java Backend Developer • Spring Boot • Problem Solver
 - ⚙️ Interested in **Distributed Systems & Event-Driven Architecture**
 - ⚡ Love learning how backend systems work and scale
 
+<br clear="both">
+
 ---
 
 # 🌐 Connect With Me
