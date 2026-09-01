@@ -115,16 +115,6 @@ Java Backend Developer • Spring Boot • Problem Solver
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daoductam&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # LeetCode
 
 <p align="center">
